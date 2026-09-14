@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langgraph
+langchain-sarvam
+ipykernel
+streamlit
+pyyaml
+langchain-tavily 

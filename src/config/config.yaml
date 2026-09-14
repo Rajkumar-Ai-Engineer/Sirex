@@ -1,0 +1,12 @@
+llm:
+  groq:
+    provider: "groq"
+    model_name: "groq:openai/gpt-oss-120b"
+    temperature: 0
+    max_output_tokens: 2048
+
+  Sarvam:
+    provider: "Sarvam"
+    model_name: "sarvam-105b"
+    temperature: 0
+    max_output_tokens: 2048
